@@ -1,6 +1,3 @@
-from cgitb import reset
-from tarfile import BLOCKSIZE
-from tkinter import LEFT
 import pygame
 import random
 from enum import Enum
