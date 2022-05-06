@@ -1,6 +1,6 @@
 # py_snake
 
-Recreation of the game 'Snake' in Python.
+Recreation of the game 'Snake' in Python. It had to be done!
 
 # Controls
 Arrow keys for movement
